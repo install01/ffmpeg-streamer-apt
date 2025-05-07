@@ -262,7 +262,3 @@ pyinstaller --onefile --add-data "ffmpeg:." ffmpeg_streamer_tk.py
 * **Architecture errors**: build on the target platform (x86\_64 vs ARM).
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
